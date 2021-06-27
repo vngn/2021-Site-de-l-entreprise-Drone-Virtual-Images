@@ -1,6 +1,6 @@
 # Drone-Virtual-Images / https://dronevirtualimages.fr/
 
-Site vitrine réalisé pour la mise en avant de l'activité d'une entreprise spécialisée dans la prise de vues avec drone et la réalisation de visites virtuelles 3D.
+Site vitrine réalisé bénévolement pour la mise en avant de l'activité d'une entreprise spécialisée dans la prise de vues avec drone et la réalisation de visites virtuelles 3D.
 
 Pour correspondre à la demande client, le contenu du site était initalement regroupé sur une unique page front.
 
