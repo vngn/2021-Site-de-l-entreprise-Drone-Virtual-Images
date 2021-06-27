@@ -1,0 +1,60 @@
+/* INTRO */
+
+.presentation {
+    @media (max-width: 1366px) {
+        margin-top: 50px;
+    }
+}
+
+.intro {
+    @media (max-width: 1366px) {
+        font-size: 1.8rem;
+    }
+}
+
+/* MENU */
+
+.menu {
+    @include cadre (75%);
+    margin-top: 490px;
+    margin-bottom: 100px;
+}
+
+/* PHOTOS */
+
+.diagonal-box {
+    @media (max-width: 1366px) {
+        margin-bottom: 120px;
+    }
+}
+
+.photo {
+    @media (max-width: 1366px) {
+        padding: 0 3px;
+        margin-bottom: 10px;
+    }
+}
+
+.modal-content {
+    @media (max-width: 1366px) {
+        width: 710px;
+        height: 540px;
+    }
+}
+
+.modal {
+    @media (max-width: 1366px) {
+        position: fixed;
+        left: 0px;
+    }
+}
+
+/* TEXTES */
+
+
+
+p {
+    @media (max-width: 1366px) {
+        font-size: 1rem;
+    }
+}
